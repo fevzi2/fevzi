@@ -1,15 +1,9 @@
 
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "cars": [
+    { "Name":"chevrolet chevelle malibu","Horsepower":130,"Origin":"USA"},
+    { "Name":"buick skylark 320","Horsepower":165,"Origin":"USA"},
+    { "Name":"plymouth satellite", "Horsepower":150,"Origin":"USA" }
+    { "Name":"Lambo", "Horsepower":300,"Origin":"I" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
