@@ -1,7 +1,7 @@
 {
   "cars": [
     { "Name":"chevrolet chevelle malibu", "Horsepower":130,"Origin":"USA"},
-    { "Name":"chevrolet chevelle malibu", "Horsepower":130,"Origin":"USA"},
-    { "Name":"chevrolet chevelle malibu", "Horsepower":130,"Origin":"USA"}
+    { "Name":"buick skylark 320", "Horsepower":145,"Origin":"GER"},
+    { "Name":"Lambo",, "Horsepower":170,"Origin":"ITA"}
   ]
 }
