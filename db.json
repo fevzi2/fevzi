@@ -24,39 +24,4 @@
       "Horsepower":140,
       "Origin":"USA"
    },
-   {
-      "Name":"ford galaxie 500",
-      "Horsepower":198,
-      "Origin":"USA"
-   },
-   {
-      "Name":"chevrolet impala",
-      "Horsepower":220,
-      "Origin":"USA"
-   },
-   {
-      "Name":"plymouth fury iii",
-      "Horsepower":215,
-      "Origin":"USA"
-   },
-   {
-      "Name":"pontiac catalina",
-      "Horsepower":225,
-      "Origin":"USA"
-   },
-   {
-      "Name":"amc ambassador dpl",
-      "Horsepower":190,
-      "Origin":"USA"
-   },
-   {
-      "Name":"citroen ds-21 pallas",
-      "Horsepower":115,
-      "Origin":"Europe"
-   },
-   {
-      "Name":"chevrolet chevelle concours (sw)",
-      "Horsepower":165,
-      "Origin":"USA"
-   }
    ]
