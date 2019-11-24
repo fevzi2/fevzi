@@ -3,12 +3,5 @@
     { "Name":"chevrolet chevelle malibu", "Horsepower":130,"Origin":"USA"},
     { "Name":"chevrolet chevelle malibu", "Horsepower":130,"Origin":"USA"},
     { "Name":"chevrolet chevelle malibu", "Horsepower":130,"Origin":"USA"}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
