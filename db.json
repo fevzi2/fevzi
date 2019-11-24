@@ -1,0 +1,27 @@
+[
+        {
+        "Name":"chevrolet chevelle malibu",
+        "Horsepower":130,
+        "Origin":"USA"
+        },
+        {
+        "Name":"buick skylark 320",
+        "Horsepower":165,
+        "Origin":"USA"
+        },
+        {
+        "Name":"plymouth satellite",
+        "Horsepower":150,
+        "Origin":"USA"
+        },
+        {
+        "Name":"amc rebel sst",
+        "Horsepower":150,
+        "Origin":"USA"
+        },
+        {
+        "Name":"ford torino",
+        "Horsepower":140,
+        "Origin":"USA"
+        }
+        ]
